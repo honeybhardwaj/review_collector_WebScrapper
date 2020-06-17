@@ -12,8 +12,10 @@ the websites often are dynamic in nature for which you must automate the task re
 
 # setting up things for project
 1. you need to install all the libraries used with their dependencies. you can use pip installer for that.
-just type
+just type:
+
 pip install selenium
+
 pip install bs4
 etc
 

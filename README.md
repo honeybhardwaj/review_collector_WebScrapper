@@ -1,4 +1,8 @@
-# reviews_collector_WebScrapper
+![review_collector_WebScrapper](https://socialify.git.ci/honeybhardwaj/review_collector_WebScrapper/image?description=1&forks=1&issues=1&language=1&owner=1&stargazers=1&theme=Light)
+
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)![forthebadge](https://forthebadge.com/images/badges/open-source.svg)
+
+# Description
 
 We often need to collect a lot of data at our initial stages to work for other parts of the project.
 this is a web crawler for www.yelp.com
@@ -21,3 +25,14 @@ etc
 
 
 Note: please not that this code is just for restuarants in newyork so if you want to scrap data for other things in the website you need to edit the loop in the given code which takes care of hotel_urls.
+
+<h1 align=center> Project Admin ❤️ </h1>
+<p align="center">
+  <a href="https://github.com/honeybhardwaj"><img src="https://user-images.githubusercontent.com/51120790/112728813-11dfcc80-8f4f-11eb-8398-5864bd390546.png" width=150px height=150px /></a> 
+    
+<p align="center">
+  <img src="https://img.shields.io/badge/honeybhardwaj%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>  <img src="https://img.shields.io/badge/honeybhardwaj%20-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=black"/> <img src="https://img.shields.io/badge/honney_bhardwaj%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>                                                                                      
+
+<h1 align=center>Happy Coding 👨‍💻 </h1>
+
+## please don't forget to give a star ⭐ if you liked it.
